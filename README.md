@@ -29,6 +29,6 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
  
-  ![Snake animation](https://github.com/mrquim/mrquim/blob/output/cobra-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/mrquim/mrquim/2134d7a361093f9c2109aabc177fb0b0f41833ad/cobra-snake.svg)
  
 </div>
