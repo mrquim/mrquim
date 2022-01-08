@@ -12,11 +12,10 @@
   <img align="center" alt="Mr_Quim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Mr_Quim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-plain.svg">
   <img align="center" alt="Mr_Quim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/lua/lua-plain.svg">
-  <img align="right" alt="Mr_Quim-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/putty/putty-plain.svg">
-  
-    <img align="right" alt="Mr_Quim-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original.svg">
-    <img align="right" alt="Mr_Quim-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-plain.svg">
-    <img align="right" alt="Mr_Quim-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-plain.svg">
+  <img align="right" alt="Mr_Quim-pic" height="30" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/putty/putty-plain.svg">
+    <img align="right" alt="Mr_Quim-pic" height="30" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original.svg">
+    <img align="right" alt="Mr_Quim-pic" height="30" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-plain.svg">
+    <img align="right" alt="Mr_Quim-pic" height="30" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-plain.svg">
 </div>
   
   ##
