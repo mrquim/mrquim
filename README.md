@@ -9,6 +9,7 @@
   <img align="center" alt="Mr_Quim-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
   <img align="center" alt="Mr_Quim-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Mr_Quim-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-plain.svg">
+  <img align="center" alt="Mr_Quim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">  
   <img align="center" alt="Mr_Quim-Filezilla" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Mr_Quim-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-plain.svg">
   <img align="center" alt="Mr_Quim-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/lua/lua-plain.svg">
