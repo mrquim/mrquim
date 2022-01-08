@@ -5,18 +5,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrquim&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mr_Quim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg">
-  <img align="center" alt="Mr_Quim-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
-  <img align="center" alt="Mr_Quim-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Mr_Quim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-plain.svg">
-  <img align="center" alt="Mr_Quim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/filezilla/filezilla-plain.svg">
-  <img align="center" alt="Mr_Quim-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-plain.svg">
-  <img align="center" alt="Mr_Quim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/lua/lua-plain.svg">
-  
-    <img align="center" alt="Mr_Quim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/putty/putty-plain.svg">
-    <img align="center" alt="Mr_Quim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original.svg">
-    <img align="center" alt="Mr_Quim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-plain.svg">
-    <img align="center" alt="Mr_Quim-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-plain.svg">  
+  <img align="center" alt="Mr_Quim-Html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg">
+  <img align="center" alt="Mr_Quim-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg">
+  <img align="center" alt="Mr_Quim-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Mr_Quim-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/apache/apache-plain.svg">
+  <img align="center" alt="Mr_Quim-Filezilla" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/filezilla/filezilla-plain.svg">
+  <img align="center" alt="Mr_Quim-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-plain.svg">
+  <img align="center" alt="Mr_Quim-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/lua/lua-plain.svg">
+    <img align="center" alt="Mr_Quim-Putty" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/putty/putty-plain.svg">
+    <img align="center" alt="Mr_Quim-Raspberry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original.svg">
+    <img align="center" alt="Mr_Quim-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-plain.svg">
+    <img align="center" alt="Mr_Quim-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-plain.svg">  
   <img align="right" alt="Mr_Quim-pic" height="150" style="border-radius:50px;" src="https://www.JoaquimdeOliveira.eu/github_perfil.png">
 </div>
   
